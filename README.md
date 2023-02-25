@@ -5,7 +5,7 @@ Web application- SpringBoot<br/>
 Prerequisites<br/>
 JAVA: jdk 17, SpringBoot version 3.x.x<br/>
 
-mysql  database<br/>
+mysql database<br/>
 
 
 Build Instructions<br/>
